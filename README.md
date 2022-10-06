@@ -23,6 +23,10 @@
 
 <h2> About Me </h2>
 
+````diff
+-Looking for a Ph.D. position in Computer Vision/Reinforcement Learning/Robotics/Swarm Robotics.
+````
+
 <p align="justify"> I am currently working as a Robotics & Deep Learning Engineer at EII, Inc. Previously worked as a Data Scientist at Hiperdyne Corporation, Japan. </p>
 
 <p align="justify"> I have received my BSc in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2019. My research interest lies in the general area of machine learning, particularly in deep learning, reinforcement learning as well as their application in natural language processing and computer vision. </p>
@@ -35,3 +39,6 @@ ___
 
 
 ![Profile views](https://gpvc.arturio.dev/Sifat-Ahmed)  
+
+
+
