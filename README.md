@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h2>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=console&size=24&duration=3000&pause=500&color=15F797&center=true&vCenter=true&width=1000&height=30&lines=Artificial+Intelligence+%26+Robotics+Engineer.;Research+enthusiast.)](www.sifat-ahmed.com)
 
 
@@ -20,12 +21,14 @@
   <a href="https://scholar.google.com/citations?user=0uPQXn0AAAAJ"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-#### About Me
-I am currently working as a Robotics & Deep Learning Engineer at EII, Inc. Previously worked as a Data Scientist at Hiperdyne Corporation, Japan.
+<h2> About Me </h2>
 
-I have received my BSc in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2019. My research interest lies in the general area of machine learning, particularly in deep learning, reinforcement learning as well as their application in natural language processing and computer vision.
+<p align="justify"> I am currently working as a Robotics & Deep Learning Engineer at EII, Inc. Previously worked as a Data Scientist at Hiperdyne Corporation, Japan. </p>
+
+<p align="justify"> I have received my BSc in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2019. My research interest lies in the general area of machine learning, particularly in deep learning, reinforcement learning as well as their application in natural language processing and computer vision. </p>
 
 
+___
 <img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue"/>
