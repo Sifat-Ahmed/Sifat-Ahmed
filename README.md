@@ -33,10 +33,9 @@
 
 
 ___
-<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%" height="10.0%"/> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue"/>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue" width="69.5%"/> <img src="https://potatoscholar-api.herokuapp.com/static/plot.svg" width="30.0%" /> 
 
 ![Profile views](https://gpvc.arturio.dev/Sifat-Ahmed)  
 
