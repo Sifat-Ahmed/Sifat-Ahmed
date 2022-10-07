@@ -37,6 +37,8 @@ ___
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue" width="68%"/> <img style="border:10px solid white;" src="https://potatoscholar-api.herokuapp.com/static/plot.svg" width="31.5%" /> 
 
+<img  src="https://potatoscholar-api.herokuapp.com/static/table.svg" width="100%" /> 
+
 ![Profile views](https://gpvc.arturio.dev/Sifat-Ahmed)  
 
 
