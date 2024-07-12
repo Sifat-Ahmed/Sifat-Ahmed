@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h2>
 
-![](https://potatoscholar-api.herokuapp.com)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=console&size=24&duration=3000&pause=500&color=15F797&center=true&vCenter=true&width=1000&height=30&lines=Artificial+Intelligence+%26+Robotics+Engineer.;Research+enthusiast.)](www.sifat-ahmed.com)
 
 
@@ -18,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="www.sifat-ahmed.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/451757508353327105"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/451757508353327105"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:sifat.austech@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://scholar.google.com/citations?user=0uPQXn0AAAAJ"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
@@ -35,15 +33,13 @@
 
 
 ___
-<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%" height="10.0%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%" height="15.0%"/> 
 
 <!--
 <img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue" width="100%"/> 
 
 <img  src="https://potatoscholar-api.herokuapp.com/static/table.svg" width="49.5%" /> <img style="border:10px solid white;" src="https://potatoscholar-api.herokuapp.com/static/plot.svg" width="49.5%" /> 
 -->
-
-![Profile views](https://gpvc.arturio.dev/Sifat-Ahmed)  
 
 
 
