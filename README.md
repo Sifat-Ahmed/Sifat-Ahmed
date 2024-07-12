@@ -33,7 +33,7 @@
 
 
 ___
-<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%" height="20%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="51%" height="20%"/> 
 
 <!--
 <img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue" width="100%"/> 
