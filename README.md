@@ -27,13 +27,13 @@
 -Looking for a Ph.D. position in Computer Vision/Reinforcement Learning/Robotics/Swarm Robotics.
 ````
 
-<p align="justify"> I am currently working as a Deep Learning Engineer at EII, Inc. Previously worked as a Data Scientist at Hiperdyne Corporation, Japan. </p>
+<p align="justify"> I am the Co-founder & Chief Technology Officer (CTO) of Dolami Inc., San Francisco, California, USA. Before becoming an entrepreneur, I worked as a Senior Engineer of Robotoics & Deep Learning at EII Corporation, a startup based on Tokyo Japan. I started my professional career as a Data Scientist at Hiperdyne Corporation, Japan. </p>
 
 <p align="justify"> I have received my BSc in Computer Science & Engineering from Ahsanullah University of Science & Technology in 2019. My research interest lies in the general area of machine learning, particularly in deep learning, reinforcement learning as well as their application in natural language processing and computer vision. </p>
 
 
 ___
-<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%" height="15.0%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Sifat-Ahmed&show_icons=true&count_private=true&theme=vue-dark" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sifat-Ahmed&theme=vue-dark" width="49.5%" height="20%"/> 
 
 <!--
 <img src="https://activity-graph.herokuapp.com/graph?username=Sifat-Ahmed&theme=vue" width="100%"/> 
