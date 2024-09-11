@@ -17,7 +17,7 @@
   <a href="www.sifat-ahmed.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="4%" height="4%"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/451757508353327105"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:sifat.austech@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:sifat.austech@outlook.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://scholar.google.com/citations?user=0uPQXn0AAAAJ"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
